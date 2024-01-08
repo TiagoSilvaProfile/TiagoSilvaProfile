@@ -1,8 +1,7 @@
 ## Olá eu sou o Tiago Silva, sou apaixonado por Tecnologia e Logistica!
 <div align="center">
   <a href="https://github.com/TiagoSilvaProfile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoSilva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://camo.githubusercontent.com/67fc6fe69796a14…53638343031392e363430623630333864313333652e676966"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
